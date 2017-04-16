@@ -1,0 +1,13 @@
+[
+    ["Adrita", 45.0],
+    ["Reshmi", 26.8],
+    {
+        "name": "Tapas",
+        "y": 12.8,
+        "sliced": true,
+        "selected": true
+    },
+    ["Ma", 8.5],
+    ["Ammachi", 6.2],
+    ["Shampoo Appupa", 0.7]
+]
